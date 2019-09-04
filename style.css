@@ -1,6 +1,6 @@
 body
 {
-    background-color: darkkhaki;
+    background-color: rgb(255, 255, 255);
     margin: 0;
 
 }
@@ -13,8 +13,7 @@ button
 
 .cilindro{
     position: relative;
-    width: 20px;
-    height: 250px;
+    width: 200px;
+    height: 20px;
     background-color: black;
-    border-radius: 65px/25px;
 }
