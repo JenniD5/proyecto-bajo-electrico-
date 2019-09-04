@@ -17,3 +17,15 @@ button
     height: 20px;
     background-color: black;
 }
+#bajo{
+    position: absolute;
+    z-index: auto;
+    left: 300px;
+    top : 10px;
+}
+#bajo2{
+    position: absolute;
+    z-index: 7;
+    left: 700px;
+    top: 10px;
+}
