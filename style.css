@@ -9,6 +9,8 @@ button
 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+    width: 80px;
+    height: 40px;
 }
 
 .cilindro{
