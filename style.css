@@ -23,9 +23,3 @@ button
     left: 300px;
     top : 10px;
 }
-#bajo2{
-    position: absolute;
-    z-index: 7;
-    left: 700px;
-    top: 10px;
-}
